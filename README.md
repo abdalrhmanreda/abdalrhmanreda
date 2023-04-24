@@ -15,7 +15,7 @@
 
 ## 🚀 About Me
 🏢 I'm a Junior Flutter Developer<br>
-👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.<br>
 💬 Ask me about my experience with Flutter,Web Scraping ,Some knowledge in web development , or anything related to mobile development.<br>
 ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
