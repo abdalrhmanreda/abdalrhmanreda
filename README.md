@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdalrhman Reda Mohamed</h1>
 <h3 align="center">I'm a Junior Flutter Developer from Egypt</h3>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<img align='left' src="https://cdn.dribbble.com/users/207059/screenshots/2354622/androidtipsspacepanoramadribbble.gif" width="230">
+<img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="300">
 
 
 
