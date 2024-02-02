@@ -11,6 +11,10 @@
 
 ```dart
   final abdalrhmanreda = {
+    'email': 'abdalrhmanr444@gmail.com' as String,
+    'experience': 'More than 1 year' as String,
+    'education': 'Computer Science student' as String,
+    'nationality': 'Egyptian' as String,
     'pronouns': 'He' as String,
     'code': ['Flutter', 'Dart', 'C++', 'C#', 'PHP', 'JavaScript', 'Python'] as List<String>,
     'askMeAbout': ['mobile dev', 'tech', 'content creator'] as List<String>,
