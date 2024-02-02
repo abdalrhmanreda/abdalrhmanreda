@@ -42,9 +42,4 @@
 <img src="https://komarev.com/ghpvc/?username=abdalrhmanreda&label=Profile%20views&color=0e75b6&style=flat" alt="abdalrhmanreda" />
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
-<p><img width ="300" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdalrhmanreda&show_icons=true&locale=en&layout=compact" alt="abdalrhmanreda" /></p>
 
-<p>&nbsp;<img width ="350" align="center" src="https://github-readme-stats.vercel.app/api?username=abdalrhmanreda&show_icons=true&locale=en" alt="abdalrhmanreda" /></p>
-
-<p><img width ="350" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdalrhmanreda&" alt="abdalrhmanreda" /></p>
-<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--O3hycoaa--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_800/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/j8wo9f1mou6g5469671h.gif" alt="Snake animation" / >
