@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdalrhman Reda Mohamed</h1>
 <h3 align="center">I'm a Junior Flutter Developer from Egypt</h3>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdalrhmanreda&label=Profile%20views&color=0e75b6&style=flat" alt="abdalrhmanreda" /> </p>
 
