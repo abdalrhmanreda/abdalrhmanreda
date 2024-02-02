@@ -8,11 +8,20 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdalrhmanreda" alt="abdalrhmanreda" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+const abdalrhmanreda = {
+    pronouns: "He" | "Him",
+    code: ["Flutter", "Dart", "C++", "C#", "PHP", "JavaScript", "Python"],
+    askMeAbout: ["mobile dev", "tech", "content creator" ],
+    technologies: {
+        mobileApp: {
+            flutter: ["Flutter Development"],
+        },
+        databases: ["MySQL", "SQLite", "Hive"],
+        misc: ["SuiteApp" , "Firebase" ]
+    },],
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
 
-- 💬 Ask me about **Flutter**
-
-- 📫 How to reach me **abdalrhmanr444@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
