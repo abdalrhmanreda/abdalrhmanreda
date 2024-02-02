@@ -42,4 +42,10 @@
 <img src="https://komarev.com/ghpvc/?username=abdalrhmanreda&label=Profile%20views&color=0e75b6&style=flat" alt="abdalrhmanreda" />
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
+```text
+ Morning                402 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+ Daytime                1700 commits        ██████████░░░░░░░░░░░░░░░   39.17 % 
+ Evening                1412 commits        ████████░░░░░░░░░░░░░░░░░   32.53 % 
+ Night                  826 commits         █████░░░░░░░░░░░░░░░░░░░░   19.03 % 
+```
 
