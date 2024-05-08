@@ -17,7 +17,7 @@
       'mobileApp': {
         'flutter': ['Flutter Development'] as List<String>,
       },
-      'databases': ['MySQL', 'SQLite', 'Hive'] as List<String>,
+      'databases': ['MySQL', 'SQLite', 'Hive' , 'MongoDB'] as List<String>,
       'misc': ['SuiteApp', 'Firebase'] as List<String>,
     },
     'funFact': 'There are two ways to write error-free programs; only the third one works' as String,
