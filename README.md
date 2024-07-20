@@ -44,6 +44,11 @@
 
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C549%20hrs%207%20mins-blue)
 <img src="https://komarev.com/ghpvc/?username=abdalrhmanreda&label=Profile%20views&color=0e75b6&style=flat" alt="abdalrhmanreda" />
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
 ```text
