@@ -223,9 +223,6 @@ class AbdalrhmanReda extends Developer {
   <b>Thanks for stopping by! Let's build something amazing together! 🚀</b>
   <br/>
   <br/>
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊
-</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
 
 </div>
