@@ -16,9 +16,9 @@
 
 ```dart
 class AbdalrhmanReda extends Developer {
-  final String email = 'abdalrhmanr444@gmail.com';
+  final String email = 'abdalrhamanreda4@gmail.com';
   final String role = 'Software Engineer @ Arrow';
-  final double experience = 1.5; // years
+  final double experience = 2; // years
   final String education = '🎓 Computer Science Graduate';
   final String location = '📍 Egypt';
   
