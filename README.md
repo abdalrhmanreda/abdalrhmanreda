@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdalrhman%20Reda%20Mohamed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Software+Engineer+%40+Arrow+%F0%9F%9A%80;Flutter+%7C+Mobile+Dev+%7C+Game+Dev+%F0%9F%8E%AE;2%2B+Years+Building+Amazing+Apps+%E2%9C%A8;4M%2B+Lines+of+Code+Written+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Mobile+Developer+%40+PixcellCode+%F0%9F%9A%80;Flutter+%7C+Mobile+Dev+%7C+Game+Dev+%F0%9F%8E%AE;2%2B+Years+Building+Amazing+Apps+%E2%9C%A8;4M%2B+Lines+of+Code+Written+%F0%9F%92%BB" alt="Typing SVG" />
+
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="600" style="border-radius: 10px;"/>
