@@ -181,7 +181,7 @@ class AbdalrhmanReda extends Developer {
   <a href="https://twitter.com/abdalr7manr3da">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" />
   </a>
-  <a href="https://linkedin.com/in/httpsabdalrhman-read-mohamed-b24a11226/](https://www.linkedin.com/in/abdalrhman-reda-mohamed-b24a11226/">
+  <a href="https://www.linkedin.com/in/abdalrhman-reda-mohamed-b24a11226/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
   </a>
   <a href="https://instagram.com/iamabdalrhmanreda">
@@ -190,7 +190,7 @@ class AbdalrhmanReda extends Developer {
   <a href="https://www.youtube.com/channel/UCrheMyOIwn7-eriSe1xc8ag">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" />
   </a>
-  <a href="https://fb.com/https://www.facebook.com/profile.php?id=100009576528529](https://www.facebook.com/abdalrhman.reda.689207/">
+  <a href="https://www.facebook.com/abdalrhman.reda.689207/">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000" />
   </a>
   <a href="mailto:abdalrhamanreda4@gmail.com">
