@@ -178,13 +178,13 @@ class AbdalrhmanReda extends Developer {
 ## 🌐 **CONNECT WITH ME**
 
 <p align="center">
-  <a href="https://twitter.com/abdalrhman_red3">
+  <a href="https://twitter.com/abdalr7manr3da">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=000000" />
   </a>
-  <a href="https://linkedin.com/in/httpsabdalrhman-read-mohamed-b24a11226/">
+  <a href="[https://linkedin.com/in/httpsabdalrhman-read-mohamed-b24a11226/](https://www.linkedin.com/in/abdalrhman-reda-mohamed-b24a11226/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
   </a>
-  <a href="https://instagram.com/abdalrhman_red3">
+  <a href="https://instagram.com/iamabdalrhmanreda">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
   </a>
   <a href="https://www.youtube.com/channel/UCrheMyOIwn7-eriSe1xc8ag">
