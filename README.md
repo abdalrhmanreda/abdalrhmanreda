@@ -1,8 +1,23 @@
-<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Abdalrhman%20Reda%20Mohamed&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A177F7&center=true&vCenter=true&width=940&lines=Mobile+Developer+%40+PixcellCode+%F0%9F%9A%80;Flutter+%7C+Mobile+Dev+%7C+Game+Dev+%F0%9F%8E%AE;2%2B+Years+Building+Amazing+Apps+%E2%9C%A8;4M%2B+Lines+of+Code+Written+%F0%9F%92%BB" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=Abdalrhman%20Reda&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Mobile%20Architect%20%7C%20Code%20Craftsman&descAlignY=55&descSize=18&descColor=A177F7" width="100%"/>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A177F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%93%B1+Mobile+Developer+%40+PixcellCode;%F0%9F%8E%AE+Flutter+%E2%80%A2+Game+Dev+%E2%80%A2+Cross-Platform;%F0%9F%92%BB+2%2B+Years+%E2%80%A2+4M%2B+Lines+of+Code+Written" alt="Typing SVG" />
+</a>
+</p>
+
+<br/>
+
+<p>
+  <img src="https://img.shields.io/badge/Focus-Mobile%20Development-A177F7?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Lives-Egypt-F85D7F?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Languages-9+-F8D866?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-5BCEFA?style=for-the-badge&labelColor=0D1117"/>
+</p>
+
+<br/>
 
 
 <p align="center">
