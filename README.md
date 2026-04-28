@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A177F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%93%B1+Mobile+Developer+%40+PixcellCode;%F0%9F%8E%AE+Flutter+%E2%80%A2+Game+Dev+%E2%80%A2+Cross-Platform;%F0%9F%92%BB+2%2B+Years+%E2%80%A2+4M%2B+Lines+of+Code+Written" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A177F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%93%B1+Mobile+Developer+%40+Trispects;%F0%9F%8E%AE+Flutter+%E2%80%A2+Game+Dev+%E2%80%A2+Cross-Platform;%F0%9F%92%BB+2%2B+Years+%E2%80%A2+4M%2B+Lines+of+Code+Written" alt="Typing SVG" />
 </a>
 </p>
 
