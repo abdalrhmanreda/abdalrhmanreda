@@ -1,10 +1,8 @@
-
-
 <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=300&section=header&text=Abdalrhman%20Reda&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Mobile%20Architect%20%7C%20Code%20Craftsman&descAlignY=55&descSize=18&descColor=A177F7" width="100%"/>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A177F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%93%B1+Mobile+Developer+%40+Trispects;%F0%9F%8E%AE+Flutter+%E2%80%A2+Game+Dev+%E2%80%A2+Cross-Platform;%F0%9F%92%BB+2%2B+Years+%E2%80%A2+4M%2B+Lines+of+Code+Written" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A177F7&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=800&height=100&lines=%F0%9F%93%B1+Software+Engineer+%7C+Flutter+%26+Python;%F0%9F%8E%AE+Flutter+%E2%80%A2+Game+Dev+%E2%80%A2+Cross-Platform;%F0%9F%92%BB+3%2B+Years+%E2%80%A2+50%2B+Apps+Built" alt="Typing SVG" />
 </a>
 </p>
 
@@ -14,7 +12,7 @@
   <img src="https://img.shields.io/badge/Focus-Mobile%20Development-A177F7?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/Lives-Egypt-F85D7F?style=for-the-badge&labelColor=0D1117"/>
   <img src="https://img.shields.io/badge/Languages-9+-F8D866?style=for-the-badge&labelColor=0D1117"/>
-  <img src="https://img.shields.io/badge/Experience-2%2B%20Years-5BCEFA?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/Experience-3%2B%20Years-5BCEFA?style=for-the-badge&labelColor=0D1117"/>
 </p>
 
 <br/>
@@ -24,7 +22,10 @@
   <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="600" style="border-radius: 10px;"/>
 </p>
 
+---
+
 ## 📱 **PUBLISHED APPS**
+
 <table align="center" width="100%">
   <tr>
     <td align="center" width="20%">
@@ -69,7 +70,6 @@
     </td>
   </tr>
 </table>
----
 
 ---
 
@@ -80,8 +80,8 @@
 ```dart
 class AbdalrhmanReda extends Developer {
   final String email = 'abdalrhamanreda4@gmail.com';
-  final String role = 'Software Engineer @ Arrow';
-  final double experience = 2.0; // years
+  final String role = 'Software Engineer | Flutter & Python';
+  final double experience = 3.0; // years
   final String education = '🎓 Computer Science Graduate';
   final String location = '📍 Egypt';
   
@@ -93,7 +93,7 @@ class AbdalrhmanReda extends Developer {
   Map<String, dynamic> expertise = {
     '📱 Mobile': ['Flutter', 'Android', 'Cross-Platform', 'Responsive UI'],
     '🎮 Game Dev': ['Godot', 'Game Logic', 'Interactive Experiences'],
-    '🔧 Backend': ['Firebase', 'Node.js', 'REST APIs', 'MongoDB'],
+    '🔧 Backend': ['Python', 'Django', 'Firebase', 'Node.js', 'REST APIs', 'MongoDB'],
     '🎨 Design': ['Figma', 'UI/UX', 'Material Design', 'Animations'],
     '☁️ Cloud': ['Firebase', 'MySQL', 'SQLite', 'Hive'],
   };
@@ -144,41 +144,6 @@ class AbdalrhmanReda extends Developer {
 
 ---
 
-## 📊 **BATTLE STATS**
-
-<details open>
-<summary><b>⚡ Performance Metrics</b></summary>
-<br/>
-
-
-
-<p align="center">
-  <img width="54%" src="https://github-readme-activity-graph.vercel.app/graph?username=abdalrhmanreda&bg_color=000000&color=F85D7F&line=F8D866&point=FFFFFF&hide_border=true&custom_title=Contribution%20Graph" />
-</p>
-
-</details>
-
-<details>
-<summary><b>🎯 Code Distribution</b></summary>
-<br/>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdalrhmanreda&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=F85D7F&text_color=FFFFFF" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/wakatime?username=abdalrhmanreda&theme=radical&hide_border=true&bg_color=000000&title_color=F85D7F&text_color=FFFFFF&layout=compact" />
-</p>
-
-</details>
-
----
-
-## 🏆 **ACHIEVEMENT HALL**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdalrhmanreda&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
-</p>
-
----
-
 ## ⏰ **CODING RHYTHM**
 
 <table width="100%">
@@ -216,21 +181,6 @@ class AbdalrhmanReda extends Developer {
 </td>
 </tr>
 </table>
-
----
-
-## 📈 **DEVELOPER METRICS**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/⏱️_Code_Time-2,549_hrs_7_mins-F85D7F?style=for-the-badge&logo=clockify&logoColor=white&labelColor=000000"/>
-  <img src="https://img.shields.io/badge/📝_Lines_Written-4.0M+-F8D866?style=for-the-badge&logo=textpattern&logoColor=white&labelColor=000000"/>
-  <img src="https://komarev.com/ghpvc/?username=abdalrhmanreda&label=👁️+Profile+Views&color=A177F7&style=for-the-badge&labelColor=000000"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/abdalrhmanreda?style=for-the-badge&logo=github&label=Followers&labelColor=000000&color=5BCEFA"/>
-  <img src="https://img.shields.io/github/stars/abdalrhmanreda?style=for-the-badge&logo=github&label=Total+Stars&labelColor=000000&color=F8D866"/>
-</p>
 
 ---
 
