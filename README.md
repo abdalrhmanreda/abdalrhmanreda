@@ -24,6 +24,53 @@
   <img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="600" style="border-radius: 10px;"/>
 </p>
 
+## 📱 **PUBLISHED APPS**
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://res.cloudinary.com/drgptawcj/image/upload/v1780854146/noon_q5ee9x.png" width="80" style="border-radius: 20px;"/>
+      <br/>
+      <b>ن Noon</b>
+      <br/>
+      <a href="https://play.google.com/store/apps/details?id=com.nooralhuda.noor"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" /></a>
+      <a href="https://apps.apple.com/eg/app/%D9%86-noon-%D8%A7%D9%84%D9%82%D8%B1%D8%A2%D9%86-%D9%88%D8%A7%D9%84%D8%A3%D8%B0%D9%83%D8%A7%D8%B1/id6759193445"><img src="https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white" /></a>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://res.cloudinary.com/drgptawcj/image/upload/v1780854144/mehlman_jsdqnc.png" width="80" style="border-radius: 20px;"/>
+      <br/>
+      <b>Mehlman Qbank</b>
+      <br/>
+      <a href="https://play.google.com/store/apps/details?id=com.mehlmanmedical.qbank"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" /></a>
+      <a href="https://apps.apple.com/us/app/mehlman-qbank/id6756009026"><img src="https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white" /></a>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://res.cloudinary.com/drgptawcj/image/upload/v1780854144/mac_duwjml.png" width="80" style="border-radius: 20px;"/>
+      <br/>
+      <b>MACLINK</b>
+      <br/>
+      <a href="https://play.google.com/store/apps/details?id=com.mac.maclink"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" /></a>
+      <a href="https://apps.apple.com/eg/app/maclink/id6502847350"><img src="https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white" /></a>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://res.cloudinary.com/drgptawcj/image/upload/v1780854143/elite_ao3o17.jpg" width="80" style="border-radius: 20px;"/>
+      <br/>
+      <b>Elite Learn</b>
+      <br/>
+      <a href="https://play.google.com/store/apps/details?id=com.elitelearn.edu"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" /></a>
+      <a href="https://apps.apple.com/eg/app/elite-learn/id6742842703"><img src="https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white" /></a>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://res.cloudinary.com/drgptawcj/image/upload/v1780854143/tashkeel_aq5dv3.png" width="80" style="border-radius: 20px;"/>
+      <br/>
+      <b>Tashkeel</b>
+      <br/>
+      <a href="https://play.google.com/store/apps/details?id=com.kaderisoft.tashkil"><img src="https://img.shields.io/badge/Google_Play-414141?style=flat&logo=google-play&logoColor=white" /></a>
+      <a href="https://apps.apple.com/eg/app/%D8%AD%D8%B1%D9%88%D9%81%D9%83/id1483869237"><img src="https://img.shields.io/badge/App_Store-000000?style=flat&logo=apple&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+---
+
 ---
 
 ## 🎯 **TECH WARRIOR** | 💎 **CODE ARCHITECT** | 🔥 **FLUTTER MASTER**
